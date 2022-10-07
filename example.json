@@ -1,0 +1,11 @@
+{
+    "testKey": "value",
+    "number": 12,
+    "values": [1, 2, 3, "test", {
+        "key": "tree value"
+    }],
+    "object": {
+        "key": "value"
+    },
+    "ids": [1,2,3,4,5]
+}
